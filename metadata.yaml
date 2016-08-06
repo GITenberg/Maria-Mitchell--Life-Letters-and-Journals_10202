@@ -1,0 +1,34 @@
+_repo: Maria-Mitchell--Life-Letters-and-Journals_10202
+_version: 0.0.1
+contributor:
+  compiler:
+    agent_name: Kendall, Phebe Mitchell
+    gutenberg_agent_id: '3378'
+    url: http://www.gutenberg.org/2009/agents/3378
+creator:
+  author:
+    agent_name: Mitchell, Maria
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '3377'
+    url: http://www.gutenberg.org/2009/agents/3377
+    wikipedia: http://en.wikipedia.org/wiki/Maria_Mitchell
+description: These letters and diary entries provide insight into the private realities
+  of a woman whose life as an astronomer deviated radically from the roles ascribed
+  to 19th century women.
+gutenberg_issued: '2003-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mitchell, Maria, 1818-1889'
+- !lcsh 'Astronomers -- United States -- Biography'
+- !lcsh 'Women astronomers -- United States -- Biography'
+- !lcc 'QB'
+- GITenberg
+title: 'Maria Mitchell: Life, Letters, and Journals'
+url: http://www.gutenberg.org/ebooks/10202
