@@ -1,10 +1,13 @@
 _repo: Maria-Mitchell--Life-Letters-and-Journals_10202
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   compiler:
     agent_name: Kendall, Phebe Mitchell
     gutenberg_agent_id: '3378'
     url: http://www.gutenberg.org/2009/agents/3378
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mitchell, Maria
@@ -16,6 +19,8 @@ creator:
 description: These letters and diary entries provide insight into the private realities
   of a woman whose life as an astronomer deviated radically from the roles ascribed
   to 19th century women.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10202#Maria-Mitchell--Life-Letters-and-Journals
 gutenberg_issued: '2003-11-01'
 gutenberg_type: Text
 identifiers:
